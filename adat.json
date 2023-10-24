@@ -1,0 +1,14 @@
+{
+    "nevek":[
+        {
+            "vnev":"Béla",
+            "knev":"Béla",
+            "szulEv": 1992
+        },
+        {
+            "vnev":"Nem Béla",
+            "knev":"Nem Béla",            
+            "szulEv": 1993
+        }
+    ]
+}
